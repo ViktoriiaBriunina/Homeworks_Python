@@ -4,8 +4,7 @@ def maximum(x,y,z):
     for i in values:
         if i > maximum:
             maximum = i
-    print(maximum)
-
-maximum(100,200,300)
+    return maximum
+print(maximum(100,200,300))
 
 
