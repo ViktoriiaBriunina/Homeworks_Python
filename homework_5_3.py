@@ -7,5 +7,5 @@ def fact(x):
 
 print(fact(5))
 
-for i in range (1,7):
+for i in range (5):
     print(fact(i))
